@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Luz\\source\\repos\\API_Gateway\\API_Gateway\\API_Gateway.csproj": {}
+    "D:\\guia8-des\\API_Gateway\\API_Gateway.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Luz\\source\\repos\\API_Gateway\\API_Gateway\\API_Gateway.csproj": {
+    "D:\\guia8-des\\API_Gateway\\API_Gateway.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luz\\source\\repos\\API_Gateway\\API_Gateway\\API_Gateway.csproj",
+        "projectUniqueName": "D:\\guia8-des\\API_Gateway\\API_Gateway.csproj",
         "projectName": "API_Gateway",
-        "projectPath": "C:\\Users\\Luz\\source\\repos\\API_Gateway\\API_Gateway\\API_Gateway.csproj",
+        "projectPath": "D:\\guia8-des\\API_Gateway\\API_Gateway.csproj",
         "packagesPath": "C:\\Users\\Luz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luz\\source\\repos\\API_Gateway\\API_Gateway\\obj\\",
+        "outputPath": "D:\\guia8-des\\API_Gateway\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Luz\\AppData\\Roaming\\NuGet\\NuGet.Config",

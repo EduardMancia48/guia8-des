@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Luz\\source\\repos\\API_Gateway\\LibroAPI\\LibroAPI.csproj": {}
+    "D:\\guia8-des\\LibroAPI\\LibroAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Luz\\source\\repos\\API_Gateway\\LibroAPI\\LibroAPI.csproj": {
+    "D:\\guia8-des\\LibroAPI\\LibroAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luz\\source\\repos\\API_Gateway\\LibroAPI\\LibroAPI.csproj",
+        "projectUniqueName": "D:\\guia8-des\\LibroAPI\\LibroAPI.csproj",
         "projectName": "LibroAPI",
-        "projectPath": "C:\\Users\\Luz\\source\\repos\\API_Gateway\\LibroAPI\\LibroAPI.csproj",
+        "projectPath": "D:\\guia8-des\\LibroAPI\\LibroAPI.csproj",
         "packagesPath": "C:\\Users\\Luz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luz\\source\\repos\\API_Gateway\\LibroAPI\\obj\\",
+        "outputPath": "D:\\guia8-des\\LibroAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Luz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -57,6 +57,10 @@
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.Extensions.Caching.StackExchangeRedis": {
               "target": "Package",
               "version": "[8.0.8, )"
             },
